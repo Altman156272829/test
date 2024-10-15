@@ -28,7 +28,7 @@ def main():
     file2 = input(" enter the location of the second file")
     output_file =input(" enter the location of united file (output file)")
     merge_files(file1,file2,output_file)
-if __name__ == "merge_files.py":
+if __name__ == "main":
     main()    
     
     
